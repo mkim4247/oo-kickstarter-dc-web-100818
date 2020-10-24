@@ -13,7 +13,7 @@ class Project
     end
   end
   
-  def self.backers
+  def backers
     @backers
   end
 end
